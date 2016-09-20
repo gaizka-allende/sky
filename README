@@ -1,0 +1,9 @@
+Instructions to run the application
+
+1 npm install
+2 nmp start
+3 http://localhost:3000
+
+Instructions to test the application
+
+npm test -- --watch
